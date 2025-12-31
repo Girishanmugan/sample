@@ -1,1 +1,1 @@
-hello DEVOPS Wednesday
+hello DEVOPS Wednesday Master
